@@ -9,3 +9,4 @@ y2 = float(input('input y2: '))
 d = (((x2-x1)**2)+((y2-y1)**2))**.5
 #print(d6)
 print(d)
+#work done
